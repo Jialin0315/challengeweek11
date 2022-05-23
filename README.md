@@ -18,3 +18,5 @@ Different records of UFO sighting events could be filter by different observed t
 ## Summary
 
 
+-The clear search button was deleted from the webpage, which means the filters would need to be clean up manually everytime the users wants to change a searching target.
+-Improvment could be make by making a clear search button, or a "x" after each filters and the filter could be deleted easily each time after obtaining results.
